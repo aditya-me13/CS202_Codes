@@ -1,30 +1,32 @@
+"""
+This script demonstrates recursion, loops, and conditionals in Python.
+It includes functions to compute Fibonacci numbers, print a star pattern,
+compute the factorial of a number, and check if a number is prime.
+"""
+
 def fibonacci(n):
     """Recursive function to return the nth Fibonacci number."""
     if n <= 1:
         return n
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
+    return fibonacci(n-1) + fibonacci(n-2)
 
 def print_pattern(rows):
     """Function to print a star pattern."""
     for i in range(1, rows + 1):
-        for j in range(i):
-            print("*", end="")
-        print()  # Move to the next line after each row
+        print("*" * i)
 
 def factorial(n):
-    """Recursive function to calculate factorial."""
-    if n == 0 or n == 1:
+    """Recursive function to calculate the factorial of a number."""
+    if n in (0, 1):
         return 1
-    else:
-        return n * factorial(n-1)
+    return n * factorial(n-1)
 
-def is_prime(n):
+def is_prime(num):
     """Function to check if a number is prime."""
-    if n <= 1:
+    if num <= 1:
         return False
-    for i in range(2, n):
-        if n % i == 0:
+    for i in range(2, num):
+        if num % i == 0:
             return False
     return True
 
