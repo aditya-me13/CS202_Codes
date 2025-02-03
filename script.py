@@ -31,11 +31,12 @@ def is_prime(num):
     return True
 
 def main():
+    """Main function to demonstrate the use of the above functions."""
     # Fibonacci Series
     print("Fibonacci Series:")
     for i in range(10):
         print(f"Fibonacci({i}): {fibonacci(i)}")
-    
+
     # Star Pattern
     print("\nStar Pattern:")
     print_pattern(5)
