@@ -1,0 +1,120 @@
+{
+    "1": {
+        "run_times": [
+            4.833997964859009,
+            5.133264780044556,
+            5.5866858959198
+        ],
+        "failing_tests": [],
+        "average_time": 5.184649546941121
+    },
+    "2": {
+        "run_times": [
+            4.967275142669678,
+            4.783005952835083,
+            4.69003701210022
+        ],
+        "failing_tests": [],
+        "average_time": 4.81343936920166
+    },
+    "3": {
+        "run_times": [
+            34.917797803878784,
+            32.56614589691162,
+            32.63190984725952
+        ],
+        "failing_tests": [
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED"
+        ],
+        "average_time": 33.37195118268331
+    },
+    "4": {
+        "run_times": [
+            27.901733875274658,
+            28.252956867218018,
+            27.76834988594055
+        ],
+        "failing_tests": [
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED"
+        ],
+        "average_time": 27.97434687614441
+    },
+    "5": {
+        "run_times": [
+            4.825786828994751,
+            4.72740912437439,
+            4.6859941482543945
+        ],
+        "failing_tests": [],
+        "average_time": 4.746396700541179
+    },
+    "6": {
+        "run_times": [
+            4.596345901489258,
+            5.3807213306427,
+            4.650680065155029
+        ],
+        "failing_tests": [],
+        "average_time": 4.875915765762329
+    },
+    "7": {
+        "run_times": [
+            32.65112590789795,
+            33.62049984931946,
+            35.19992399215698
+        ],
+        "failing_tests": [
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED"
+        ],
+        "average_time": 33.82384991645813
+    },
+    "8": {
+        "run_times": [
+            30.671344757080078,
+            30.228060960769653,
+            31.69453477859497
+        ],
+        "failing_tests": [
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED",
+            "FAILED"
+        ],
+        "average_time": 30.864646832148235
+    }
+}
