@@ -1,5 +1,4 @@
-# CS202: Lab1
+# CS202 : Software Tools and Testing
 ---
 
-This is the README file for Lab1. The purpose of Lab1 is to introduce us to Version Controlling, Git Workflows, and Actions.
-This is just for learning purpose and does not add meaning to the coding community.
+This repository contains the codes for the course CS 202: Software Tools and Testing at IIT Gandhinagar. The course was taught by Prof. Shouvik Mondal. 

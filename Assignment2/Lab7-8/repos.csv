@@ -1,0 +1,4 @@
+repo_name,repo_url
+tf-keras, https://github.com/keras-team/tf-keras
+requests, https://github.com/psf/requests
+Nettacker, https://github.com/OWASP/Nettacker
