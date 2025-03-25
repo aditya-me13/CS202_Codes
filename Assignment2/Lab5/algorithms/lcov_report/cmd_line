@@ -1,0 +1,1 @@
+genhtml -o lcov_report coverage.lcov
