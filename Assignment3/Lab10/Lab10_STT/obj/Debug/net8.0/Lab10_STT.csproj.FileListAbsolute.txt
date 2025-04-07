@@ -1,0 +1,14 @@
+C:\Users\LABAdmin\Downloads\Lab10_STT\Lab10_STT\bin\Debug\net8.0\Lab10_STT.exe
+C:\Users\LABAdmin\Downloads\Lab10_STT\Lab10_STT\bin\Debug\net8.0\Lab10_STT.deps.json
+C:\Users\LABAdmin\Downloads\Lab10_STT\Lab10_STT\bin\Debug\net8.0\Lab10_STT.runtimeconfig.json
+C:\Users\LABAdmin\Downloads\Lab10_STT\Lab10_STT\bin\Debug\net8.0\Lab10_STT.dll
+C:\Users\LABAdmin\Downloads\Lab10_STT\Lab10_STT\bin\Debug\net8.0\Lab10_STT.pdb
+C:\Users\LABAdmin\Downloads\Lab10_STT\Lab10_STT\obj\Debug\net8.0\Lab10_STT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABAdmin\Downloads\Lab10_STT\Lab10_STT\obj\Debug\net8.0\Lab10_STT.AssemblyInfoInputs.cache
+C:\Users\LABAdmin\Downloads\Lab10_STT\Lab10_STT\obj\Debug\net8.0\Lab10_STT.AssemblyInfo.cs
+C:\Users\LABAdmin\Downloads\Lab10_STT\Lab10_STT\obj\Debug\net8.0\Lab10_STT.csproj.CoreCompileInputs.cache
+C:\Users\LABAdmin\Downloads\Lab10_STT\Lab10_STT\obj\Debug\net8.0\Lab10_STT.dll
+C:\Users\LABAdmin\Downloads\Lab10_STT\Lab10_STT\obj\Debug\net8.0\refint\Lab10_STT.dll
+C:\Users\LABAdmin\Downloads\Lab10_STT\Lab10_STT\obj\Debug\net8.0\Lab10_STT.pdb
+C:\Users\LABAdmin\Downloads\Lab10_STT\Lab10_STT\obj\Debug\net8.0\Lab10_STT.genruntimeconfig.cache
+C:\Users\LABAdmin\Downloads\Lab10_STT\Lab10_STT\obj\Debug\net8.0\ref\Lab10_STT.dll
