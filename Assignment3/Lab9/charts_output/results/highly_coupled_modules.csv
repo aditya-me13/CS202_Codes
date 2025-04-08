@@ -1,0 +1,7 @@
+Module,Fan-In,Fan-Out
+requests,4,15
+requests.exceptions,4,2
+requests.models,2,5
+requests.sessions,2,4
+requests.utils,3,4
+urllib3,6,3

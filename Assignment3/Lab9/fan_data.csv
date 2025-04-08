@@ -1,0 +1,17 @@
+Module,Fan-In,Fan-Out
+__main__,0,1
+charset_normalizer,1,0
+cryptography,3,1
+requests,4,15
+requests.__version__,2,0
+requests.api,1,2
+requests.exceptions,4,2
+requests.models,2,5
+requests.packages,1,0
+requests.sessions,2,4
+requests.status_codes,3,0
+requests.utils,3,4
+urllib3,6,3
+urllib3.contrib,2,0
+urllib3.contrib.pyopenssl,1,2
+urllib3.exceptions,4,0

@@ -1,0 +1,210 @@
+{
+    "__main__": {
+        "bacon": 0,
+        "imports": [
+            "requests"
+        ],
+        "name": "__main__",
+        "path": null
+    },
+    "charset_normalizer": {
+        "bacon": 2,
+        "imported_by": [
+            "requests"
+        ],
+        "name": "charset_normalizer",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/charset_normalizer/__init__.py"
+    },
+    "cryptography": {
+        "bacon": 2,
+        "imported_by": [
+            "cryptography",
+            "requests",
+            "urllib3.contrib.pyopenssl"
+        ],
+        "imports": [
+            "cryptography"
+        ],
+        "name": "cryptography",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/cryptography/__init__.py"
+    },
+    "requests": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests",
+            "requests.api",
+            "requests.utils"
+        ],
+        "imports": [
+            "charset_normalizer",
+            "cryptography",
+            "requests",
+            "requests.__version__",
+            "requests.api",
+            "requests.exceptions",
+            "requests.models",
+            "requests.packages",
+            "requests.sessions",
+            "requests.status_codes",
+            "requests.utils",
+            "urllib3",
+            "urllib3.contrib",
+            "urllib3.contrib.pyopenssl",
+            "urllib3.exceptions"
+        ],
+        "name": "requests",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/requests/__init__.py"
+    },
+    "requests.__version__": {
+        "bacon": 2,
+        "imported_by": [
+            "requests",
+            "requests.utils"
+        ],
+        "name": "requests.__version__",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/requests/__version__.py"
+    },
+    "requests.api": {
+        "bacon": 2,
+        "imported_by": [
+            "requests"
+        ],
+        "imports": [
+            "requests",
+            "requests.sessions"
+        ],
+        "name": "requests.api",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/requests/api.py"
+    },
+    "requests.exceptions": {
+        "bacon": 2,
+        "imported_by": [
+            "requests",
+            "requests.models",
+            "requests.sessions",
+            "requests.utils"
+        ],
+        "imports": [
+            "urllib3",
+            "urllib3.exceptions"
+        ],
+        "name": "requests.exceptions",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/requests/exceptions.py"
+    },
+    "requests.models": {
+        "bacon": 2,
+        "imported_by": [
+            "requests",
+            "requests.sessions"
+        ],
+        "imports": [
+            "requests.exceptions",
+            "requests.status_codes",
+            "requests.utils",
+            "urllib3",
+            "urllib3.exceptions"
+        ],
+        "name": "requests.models",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/requests/models.py"
+    },
+    "requests.packages": {
+        "bacon": 2,
+        "imported_by": [
+            "requests"
+        ],
+        "name": "requests.packages",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/requests/packages.py"
+    },
+    "requests.sessions": {
+        "bacon": 2,
+        "imported_by": [
+            "requests",
+            "requests.api"
+        ],
+        "imports": [
+            "requests.exceptions",
+            "requests.models",
+            "requests.status_codes",
+            "requests.utils"
+        ],
+        "name": "requests.sessions",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/requests/sessions.py"
+    },
+    "requests.status_codes": {
+        "bacon": 2,
+        "imported_by": [
+            "requests",
+            "requests.models",
+            "requests.sessions"
+        ],
+        "name": "requests.status_codes",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/requests/status_codes.py"
+    },
+    "requests.utils": {
+        "bacon": 2,
+        "imported_by": [
+            "requests",
+            "requests.models",
+            "requests.sessions"
+        ],
+        "imports": [
+            "requests",
+            "requests.__version__",
+            "requests.exceptions",
+            "urllib3"
+        ],
+        "name": "requests.utils",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/requests/utils.py"
+    },
+    "urllib3": {
+        "bacon": 2,
+        "imported_by": [
+            "requests",
+            "requests.exceptions",
+            "requests.models",
+            "requests.utils",
+            "urllib3",
+            "urllib3.contrib.pyopenssl"
+        ],
+        "imports": [
+            "urllib3",
+            "urllib3.contrib",
+            "urllib3.exceptions"
+        ],
+        "name": "urllib3",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/urllib3/__init__.py"
+    },
+    "urllib3.contrib": {
+        "bacon": 2,
+        "imported_by": [
+            "requests",
+            "urllib3"
+        ],
+        "name": "urllib3.contrib",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/urllib3/contrib/__init__.py"
+    },
+    "urllib3.contrib.pyopenssl": {
+        "bacon": 2,
+        "imported_by": [
+            "requests"
+        ],
+        "imports": [
+            "cryptography",
+            "urllib3"
+        ],
+        "name": "urllib3.contrib.pyopenssl",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/urllib3/contrib/pyopenssl.py"
+    },
+    "urllib3.exceptions": {
+        "bacon": 2,
+        "imported_by": [
+            "requests",
+            "requests.exceptions",
+            "requests.models",
+            "urllib3"
+        ],
+        "name": "urllib3.exceptions",
+        "path": "/Users/adityamehta/miniconda3/lib/python3.12/site-packages/urllib3/exceptions.py"
+    }
+}
